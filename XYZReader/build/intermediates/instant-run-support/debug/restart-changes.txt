@@ -1,0 +1,1 @@
+CHANGED,/home/josh/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/data/UpdaterService.class
